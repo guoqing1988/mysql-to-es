@@ -90,12 +90,3 @@ php的操作类库，通过写sql来转化dsl来查询elasticsearch
     *  SQL Having
 ### 使用注意事项
     请在配置项填写es的版本,这样系统不会请求获取版本，这样不会多一次请求,建议配置一下
-### 交流使用
-    qq群：578276199
-### 项目地址
-    github：https://github.com/qieangel2013/EsParser
-    oschina：https://gitee.com/qieangel2013/EsParser
-### 如果你对我的辛勤劳动给予肯定，请给我捐赠，你的捐赠是我最大的动力
-![](https://github.com/qieangel2013/zys/blob/master/public/images/pw.jpg)
-![](https://github.com/qieangel2013/zys/blob/master/public/images/pay.png)
-[项目捐赠列表](https://github.com/qieangel2013/zys/wiki/%E9%A1%B9%E7%9B%AE%E6%8D%90%E8%B5%A0)

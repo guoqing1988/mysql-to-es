@@ -1,5 +1,5 @@
 {
-    "name": "wuhen/MysqlToEs",
+    "name": "wuhen/mysql-to-es",
     "description": "mysql sql to elasticsearch,mysql语句转换ES语句查询",
     "type": "library",
     "keywords": ["mysql","sql","ES","sqltoes","sql2es","MysqlToEs","mysql2es","mysql2elasticsearch","elasticsearch","restful"],
