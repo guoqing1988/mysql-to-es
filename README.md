@@ -3,7 +3,7 @@ php的操作类库，通过写sql来转化dsl来查询elasticsearch
 ### composer使用
     {
         "require": {
-            "qieangel2013/esparser": "dev-master"
+            "wuhen/mysql-to-es": "dev-master"
         }
     }
     composer install
